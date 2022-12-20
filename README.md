@@ -26,6 +26,7 @@ int main(void)
 * Compile and run.
 ```
 cc -Wall -Wextra -Werror name_of_file.c get_next_line.c get_next_line_utils.c
+./a.out
 ```
 ## Disclaimer
 > At [42School](https://en.wikipedia.org/wiki/42_(school)), almost every project must be written in accordance to the [Norm](./extras/en_norm.pdf), the schools' coding standard. As a result, the implementation of certain parts may appear strange and for sure had room for improvement.
